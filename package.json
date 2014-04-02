@@ -1,0 +1,12 @@
+{
+  "name": "ramitos-iswindow",
+  "description": "jquery based isWindow",
+  "version": "0.0.1",
+  "keywords": [
+    "window",
+    "isWindow"
+  ],
+  "main": "src/isWindow.js",
+  "dependencies": {},
+  "license": "MIT"
+}
